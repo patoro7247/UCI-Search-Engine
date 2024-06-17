@@ -1,4 +1,4 @@
-Welcome to my assignment!
+Welcome to my UCI search engine!
 
 indexer.py:
     - this file was used to create 3 separate indexes that covered the entirety of corpus.
