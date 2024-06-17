@@ -21,3 +21,5 @@ search.py:
 
 search-gui.py:
     - program using streamlit to use search engine with Web GUI
+
+![Web GUI](./webgui-screenshot.png)
